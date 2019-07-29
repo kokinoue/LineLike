@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>987480768507-4rlnv8430vaf3e037edobn6d7j0dlsfp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.987480768507-4rlnv8430vaf3e037edobn6d7j0dlsfp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAXhGxh8w3emNr56udWrr-SPK-DEKNIBGY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>987480768507</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kokinoue.LineLike</string>
+	<key>PROJECT_ID</key>
+	<string>linelike-71798</string>
+	<key>STORAGE_BUCKET</key>
+	<string>linelike-71798.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:987480768507:ios:6a5b5f235a75dc93</string>
+	<key>DATABASE_URL</key>
+	<string>https://linelike-71798.firebaseio.com</string>
+</dict>
+</plist>
